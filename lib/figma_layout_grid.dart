@@ -1,3 +1,4 @@
 library figma_layout_grid;
 
-export 'src/grid_layout.dart';
+export 'src/layout_grid.dart';
+export 'src/params.dart';
